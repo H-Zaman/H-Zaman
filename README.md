@@ -32,8 +32,8 @@
 
   <br />
 
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="H-Zaman's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=h-zaman&show_icons=true&hide_border=true" />
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="H-Zaman's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=h-zaman&show_icons=true&hide_border=true" />
 
 
 
