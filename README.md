@@ -31,10 +31,10 @@
 [<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
 <br />
-<details>
+
   <summary>:zap: GitHub Stats</summary>
-  [![H-Zaman's github stats](https://github-readme-stats.vercel.app/api?username=h-zaman)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+  <img align="left" alt="H-Zaman's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=h-zaman&show_icons=true&hide_border=true" />
+
 
 
 [instagram]: https://www.instagram.com/wiseoppaisenapi/
