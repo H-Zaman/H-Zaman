@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with anything i can.
 - 📫 How to reach me: DM me on https://www.instagram.com/wiseoppaisenapi/
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I usually have no idea what am doing
+- ⚡ Fun fact: Am huge gamer and Movie fanatic
