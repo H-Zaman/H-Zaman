@@ -1,6 +1,6 @@
 ### Hi there 👋, I`m Hasib - aka WiseOppaiSenpai
 
-[![](https://github.com/NafeeWalee/NafeeWalee/blob/master/gif.gif)](#)
+[![](https://github.com/H-Zaman/H-Zaman/blob/main/gif.gif)](#)
 
 - 🔭 I’m currently working on A food delivery app call FoodJocky, as well as some other small projects.
 - 🌱 I’m currently learning GraphQL.
