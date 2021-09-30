@@ -34,7 +34,7 @@
 
 <br />\n
 <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="H-Zaman's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=h-zaman&show_icons=true&hide_border=true" />
+<img align="left" alt="H-Zaman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=H-Zaman&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-zaman)](https://github.com/anuraghazra/github-readme-stats)
 
