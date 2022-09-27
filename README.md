@@ -1,6 +1,6 @@
 ### Hi there 👋, I`m Hasib - aka WiseOppaiSenpai
 
-[![](https://github.com/H-Zaman/H-Zaman/blob/main/gif.gif)](#)
+[![](https://raw.githubusercontent.com/kevmoo/dart_side/master/Dash%20Dart%20PNG%20%20-%20white.png)](#)
 
 - 🔭 I’m currently working on A food delivery app call FoodJocky, as well as some other small projects.
 - 🌱 I’m currently learning GraphQL.
