@@ -2,7 +2,7 @@
 
 [![](https://raw.githubusercontent.com/kevmoo/dart_side/master/Dash%20Dart%20PNG%20%20-%20white.png)](#)
 
-- 🔭 I’m currently working on A food delivery app call FoodJocky, as well as some other small projects.
+- 🔭 I’m currently working on A food delivery app call BookMyFood, as well as some other small projects.
 - 🌱 I’m currently learning GraphQL.
 - 👯 I’m looking to collaborate on open source project
 - ⚡ Fun fact: Am huge gamer and Movie fanatic
